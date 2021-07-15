@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/juvoxa/static/css/main.bb8f1f9d.chunk.css",
+    "main.js": "/juvoxa/static/js/main.0d1c1d47.chunk.js",
+    "main.js.map": "/juvoxa/static/js/main.0d1c1d47.chunk.js.map",
+    "runtime-main.js": "/juvoxa/static/js/runtime-main.882def70.js",
+    "runtime-main.js.map": "/juvoxa/static/js/runtime-main.882def70.js.map",
+    "static/js/2.b695d47f.chunk.js": "/juvoxa/static/js/2.b695d47f.chunk.js",
+    "static/js/2.b695d47f.chunk.js.map": "/juvoxa/static/js/2.b695d47f.chunk.js.map",
+    "static/js/3.ee2429a5.chunk.js": "/juvoxa/static/js/3.ee2429a5.chunk.js",
+    "static/js/3.ee2429a5.chunk.js.map": "/juvoxa/static/js/3.ee2429a5.chunk.js.map",
+    "index.html": "/juvoxa/index.html",
+    "static/css/main.bb8f1f9d.chunk.css.map": "/juvoxa/static/css/main.bb8f1f9d.chunk.css.map",
+    "static/js/2.b695d47f.chunk.js.LICENSE.txt": "/juvoxa/static/js/2.b695d47f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.882def70.js",
+    "static/js/2.b695d47f.chunk.js",
+    "static/css/main.bb8f1f9d.chunk.css",
+    "static/js/main.0d1c1d47.chunk.js"
+  ]
+}
