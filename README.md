@@ -1,6 +1,10 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a React Table app where you can sort the table in column order, and you have pagination enabled.
+
+### Links
+
+- Live Site URL: [Live Website](https://kurosakicoder.github.io/juvoxa/)
 
 ### Screenshot
 
